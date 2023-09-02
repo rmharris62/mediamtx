@@ -1,6 +1,6 @@
 {
     "name": "MediaMTX Add-on",
-    "version": "v0.2",
+    "version": "v0.3",
     "slug": "mediamtx",
     "description": "Real-time media server and media proxy",
     "arch": [
